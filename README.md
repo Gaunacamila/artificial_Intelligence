@@ -7,9 +7,13 @@ Python <code><img height="20" src="https://raw.githubusercontent.com/github/expl
 OpenCV- (Library of Python)
 
                 PREVIEW
+  Face identifier using AI
                 
                 -VIDEO-
-
+  
+car identifier using AI
+  
+                -VIDEO-
 
  Resourses 
 https://github.com/opencv/opencv/tree/master/data/haarcascades
